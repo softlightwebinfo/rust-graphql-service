@@ -1,7 +1,7 @@
 [package]
 name = "todos"
 version = "0.1.0"
-authors = ["lucperkins <lucperkins@gmail.com>"]
+authors = ["rafa <rafael.gonzalez.1737@gmail.com>"]
 edition = "2018"
 
 [dependencies]
